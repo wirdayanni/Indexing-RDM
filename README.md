@@ -1,4 +1,4 @@
-##Text Indexing (Swish-e)
+## Text Indexing (Swish-e)
 1.	Instal Swish-e. Sintaks: `sudo apt-get install swish-e`
     ![1](/Screenshot/swish-e/1.png)
 2.	Membuat file project.conf, kemudian diisi dengan sintaks `IndexDir ./project-rdm`
@@ -11,7 +11,7 @@
     ![5](/Screenshot/swish-e/5.png)
 
 
-##Image Indexing
+## Image Indexing
 1.	Clone repository dari github. Sumber : https://github.com/kudeh/image-search-engine.
     ![1](/Screenshot/image-indexing/Screenshot_1.png)
 2.	Melakukan update dengan sintaks: `sudo apt-get update`
