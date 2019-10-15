@@ -1,0 +1,1 @@
+Indexing adalah suatu proses pengindeksan dokumen yang akan disediakan informasi kepada user untuk mempercepat proses pencarian/pemanggilan kembali dengan query tertentu
