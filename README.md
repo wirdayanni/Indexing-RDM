@@ -5,7 +5,7 @@
     ![2](/Screenshot/swish-e/2.png)
 3.	Membuat file file.txt, kemudian diisi dengan beberapa kata agar dapat diindeks
     ![3](/Screenshot/swish-e/3.png)
-4.	Menjalankan program text indexing. `Sintaks: swish-e -c project.conf`
+4.	Menjalankan program text indexing. Sintaks: `swish-e -c project.conf`
     ![4](/Screenshot/swish-e/4.png)
 5.	Mencari salah satu kata. Sintaks: `swish-e -w <kata>`
     ![5](/Screenshot/swish-e/5.png)
